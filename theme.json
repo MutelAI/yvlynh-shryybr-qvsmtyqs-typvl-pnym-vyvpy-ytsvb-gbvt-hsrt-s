@@ -1,0 +1,11 @@
+{
+  "primary_color": "rose",
+  "secondary_color": "orange",
+  "hero_gradient": "from-rose-900 via-rose-800 to-orange-900",
+  "contact_gradient": "from-orange-900 via-rose-800 to-rose-900",
+  "font_heading": "Playfair Display",
+  "font_body": "Inter",
+  "font_google_import": "@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@400;500;600;700&display=swap');",
+  "brand_personality": "energetic, playful, warm, professional",
+  "logo_emoji": "Sparkles"
+}
