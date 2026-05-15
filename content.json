@@ -701,8 +701,24 @@
     {
       "id": "pricing",
       "variant": "",
-      "visible": false,
-      "items": []
+      "visible": true,
+      "items": [
+        {
+          "name": {
+            "he": "מניקור רגליים",
+            "en": "מניקור רגליים"
+          },
+          "price": {
+            "he": "300",
+            "en": "300"
+          },
+          "desc": {
+            "he": "לא כולל גוונים וכן כולל גוונים",
+            "en": "לא כולל גוונים וכן כולל גוונים"
+          },
+          "id": "pricing-1778881340413"
+        }
+      ]
     },
     {
       "id": "faq",
@@ -746,5 +762,6 @@
       "visible": false,
       "items": []
     }
-  ]
+  ],
+  "commitMessage": "edit-mode: minor updates"
 }
