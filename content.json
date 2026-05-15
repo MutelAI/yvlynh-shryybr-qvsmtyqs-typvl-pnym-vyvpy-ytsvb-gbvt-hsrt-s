@@ -146,6 +146,18 @@
           },
           "image": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.karnitmelamed.com/%3Fsrsltid%3DAfmBOoojdsotkZi5RHRaHCUoPV1cDQZqycqfpz2N8HFE0bF8O1RR_FRm&ved=2ahUKEwjYvsiJnbyUAxWJ1QIHHXvIFcwQqa4BegQIdRAA&usg=AOvVaw1jg8U7M3248WQydc6DR1sR",
           "id": "pricing-1778881484208"
+        },
+        {
+          "name": {
+            "he": "עוד מניקור",
+            "en": "עוד מניקור"
+          },
+          "price": {
+            "he": "87",
+            "en": "87"
+          },
+          "image": "https://raw.githubusercontent.com/MutelAI/yvlynh-shryybr-qvsmtyqs-typvl-pnym-vyvpy-ytsvb-gbvt-hsrt-s/main/images/photo-1.webp",
+          "id": "pricing-1778881585545"
         }
       ]
     },
@@ -779,5 +791,5 @@
       "items": []
     }
   ],
-  "commitMessage": "edit-mode: sections reordered"
+  "commitMessage": "edit-mode: minor updates"
 }
