@@ -112,6 +112,44 @@
       }
     },
     {
+      "id": "pricing",
+      "variant": "",
+      "visible": true,
+      "items": [
+        {
+          "name": {
+            "he": "מניקור רגליים",
+            "en": "מניקור רגליים"
+          },
+          "price": {
+            "he": "300",
+            "en": "300"
+          },
+          "desc": {
+            "he": "לא כולל גוונים וכן כולל גוונים",
+            "en": "לא כולל גוונים וכן כולל גוונים"
+          },
+          "id": "pricing-1778881340413"
+        },
+        {
+          "name": {
+            "he": "פדיקור",
+            "en": "פדיקור"
+          },
+          "price": {
+            "he": "98",
+            "en": "98"
+          },
+          "desc": {
+            "he": "פדיקור משהו משהו",
+            "en": "פדיקור משהו משהו"
+          },
+          "image": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.karnitmelamed.com/%3Fsrsltid%3DAfmBOoojdsotkZi5RHRaHCUoPV1cDQZqycqfpz2N8HFE0bF8O1RR_FRm&ved=2ahUKEwjYvsiJnbyUAxWJ1QIHHXvIFcwQqa4BegQIdRAA&usg=AOvVaw1jg8U7M3248WQydc6DR1sR",
+          "id": "pricing-1778881484208"
+        }
+      ]
+    },
+    {
       "id": "services",
       "variant": "F",
       "visible": true,
@@ -699,28 +737,6 @@
       "visible": true
     },
     {
-      "id": "pricing",
-      "variant": "",
-      "visible": true,
-      "items": [
-        {
-          "name": {
-            "he": "מניקור רגליים",
-            "en": "מניקור רגליים"
-          },
-          "price": {
-            "he": "300",
-            "en": "300"
-          },
-          "desc": {
-            "he": "לא כולל גוונים וכן כולל גוונים",
-            "en": "לא כולל גוונים וכן כולל גוונים"
-          },
-          "id": "pricing-1778881340413"
-        }
-      ]
-    },
-    {
       "id": "faq",
       "variant": "",
       "visible": false,
@@ -763,5 +779,5 @@
       "items": []
     }
   ],
-  "commitMessage": "edit-mode: minor updates"
+  "commitMessage": "edit-mode: sections reordered"
 }
